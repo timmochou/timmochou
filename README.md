@@ -2,11 +2,11 @@
 
 # My name is Tim Chou
 
-
-
 ## About me
 
 <br> 👨‍🎓 MSIS @ NYU Courant & NYU Stern (Class of 2027)
+<br> 🧑‍💻 Ex-Project Implementation Engineer @ Fanruan
+<br> 👨‍💻 Ex-Data Analyst Intern @ ASML
 
 ## Skills
 
