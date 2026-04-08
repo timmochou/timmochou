@@ -9,8 +9,6 @@ I am a technical specialist with a strong foundation in **Fiscal Studies (Financ
 * 🌍  I'm based in New York, NY
 * 🖥️  See my portfolio at [timmochou](http://timmochou.github.io/)
 * ✉️  You can contact me at [yenting608@gmail.com](mailto:yenting608@gmail.com)
-* 🚀  I'm currently working on [UberClone](http://expo.dev/preview/update?message=First+Publish&updateRuntimeVersion=1.0.0&createdAt=2025-08-12T21%3A20%3A43.460Z&slug=exp&projectId=64a8cf03-6091-4c77-a893-e57df609c28e&group=b2833980-8086-4640-8395-41269a9a6794)
-* 🧠  I'm currently learning Machine Learning
 
 - 📈 **Currently focusing on**: Developing Quant strategies with 13.1% Alpha using Brokerage Transaction data.
 - 🎓 **Education**: MSIS at NYU (Class of 2027), bridging Finance (Stern) and Computer Science (Courant).
