@@ -1,18 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tim Chou
-=================================================================================================================================
-
+# Hi 👋 I'm Tim Chou (Yen-Ting)
+### Quantitative Data Engineer | NYU MSIS (Courant & Stern) 
 <br> 👨‍🎓 MSIS @ NYU Courant & NYU Stern (Class of 2027)
-<br> 🧑‍💻 Ex-Project Implementation Engineer @ Fanruan
+<br> 🧑‍💻 Ex-BI Project Engineer @ Fanruan
 <br> 👨‍💻 Ex-Data Analyst Intern @ ASML
----------------------------------
 
-Hi there 👋 I’m Tim, currently pursuing Information Systems at NYU, with a strong foundation in fiscal studies (economics, accounting, finance, and taxation) and 3 years of professional experience in data analysis, BI, and ETL processes. I bridge the gap between business needs and technical solutions by turning complex data into actionable insights.
+I am a technical specialist with a strong foundation in **Fiscal Studies (Finance & Tax)** and 3+ years of professional experience in **ETL, BI, and Financial Data Engineering**. My passion lies in building robust systems that translate market noise into actionable investment signals.
 
 * 🌍  I'm based in New York, NY
 * 🖥️  See my portfolio at [timmochou](http://timmochou.github.io/)
 * ✉️  You can contact me at [yenting608@gmail.com](mailto:yenting608@gmail.com)
 * 🚀  I'm currently working on [UberClone](http://expo.dev/preview/update?message=First+Publish&updateRuntimeVersion=1.0.0&createdAt=2025-08-12T21%3A20%3A43.460Z&slug=exp&projectId=64a8cf03-6091-4c77-a893-e57df609c28e&group=b2833980-8086-4640-8395-41269a9a6794)
 * 🧠  I'm currently learning Machine Learning
+
+- 📈 **Currently focusing on**: Developing Quant strategies with 13.1% Alpha using Brokerage Transaction data.
+- 🎓 **Education**: MSIS at NYU (Class of 2027), bridging Finance (Stern) and Computer Science (Courant).
+- 🛠️ **Strongest Tech**: Python (Data Science Stack), SQL (Hadoop/Hive), and Cloud Infrastructure.
+
+---
+
+### 🚀 Featured Financial Projects
+- **[Quant-Brokerage-Insight]**: Processed **77M+ records** of broker-branch data to detect "Smart Money" movements.
+- **[Macro-Dashboard]**: Real-time monitoring of VIX, Oil, and Interest rate correlations via Bloomberg-like data feeds.
+- **[Tax-Valuation-Engine]**: Automated Basel III & IFRS reporting modules for major financial institutions.
+
+---
+
+### 🛠️ Technical Arsenal
+- **Data & Quant**: Python (Scikit-learn, Pandas), R, PyTorch, SQL, Hadoop, Hive.
+- **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, Git.
+- **Backend**: FastAPI (for High-frequency data), Node.js, PostgreSQL, MongoDB.
 
 ### Core Programming Language
 <p align="left">
